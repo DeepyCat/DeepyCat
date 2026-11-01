@@ -16,7 +16,7 @@
 ### 💻 About Me
 
 - 🌱 Currently studying **Information Technology**.
-- 🐧 Linux user (Gnome > KDE).
+- 🐧 Linux user (Gnome > KDE), and of course I watch anime and read manga.
 - 🖨️ Tinkering with 3D printing & CAD/modeling (**Fusion 360**, **Blender**, **AutoCAD**) and custom hardware setups.
 - ⚡ Passionate about web development, scripting, and automation.
 
