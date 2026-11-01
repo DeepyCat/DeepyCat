@@ -14,7 +14,7 @@
 
 - 🌱 Currently studying **Information Technology**.
 - 🐧 Linux user (Gnome > KDE).
-- 🖨️ Tinkering with 3D printing & modeling (Creality Ender 3, Blender) and custom hardware setups.
+- 🖨️ Tinkering with 3D printing & CAD/modeling (**Fusion 360**, **Blender**, **AutoCAD**) and custom hardware setups.
 - ⚡ Passionate about web development, scripting, and automation.
 
 ---
@@ -34,6 +34,7 @@
 <p>
   <img src="https://img.shields.io/badge/C-%2300599C?style=flat-square&logo=c&logoColor=white" alt="C">
   <img src="https://img.shields.io/badge/C%23-%23239120?style=flat-square&logo=csharp&logoColor=white" alt="C#">
+  <img src="https://img.shields.io/badge/PHP-%23777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP">
   <img src="https://img.shields.io/badge/HTML5-%23E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5">
 </p>
 
