@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi there, I'm DeepyCat 👋</h1>
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=DeepyCat&style=flat-square&color=blue" alt="Profile views">
+  
   <a href="https://github.com/DeepyCat"><img src="https://img.shields.io/badge/GitHub-DeepyCat-black?style=flat-square&logo=github" alt="GitHub"></a>
   <img src="https://img.shields.io/badge/Status-Building_things-success?style=flat-square" alt="Status">
 </p>
