@@ -7,14 +7,14 @@
 </p>
 
 <p align="center">
-  <em>High school IT student, developer, Linux enthusiast, and self-hosted server admin.</em>
+  <em>High school IT student, developer, and self-hosted server admin.</em>
 </p>
 
 ---
 
 ### 💻 About Me
 
-* 🌱 Currently studying **Information Technology** at SPŠEI Frenštát.
+* 🌱 Currently studying **Information Technology**.
 * 🐧 Linux 
 * 🖨️ Tinkering with 3D printing & modeling(Creality Ender 3, blender) and custom hardware setups.
 * ⚡ Passionate about web development, scripting, and automation.
