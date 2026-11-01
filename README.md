@@ -1,5 +1,8 @@
 <h1 align="center">Hi there, I'm DeepyCat 👋</h1>
 <p align="center">
+  <img src="https://raw.githubusercontent.com/DeepyCat/well_ops/refs/heads/main/kasino/img/mambo-hello.gif" width="150" alt="Mambo Hello">
+</p>
+<p align="center">
   <a href="https://github.com/DeepyCat"><img src="https://img.shields.io/badge/GitHub-DeepyCat-black?style=flat-square&logo=github" alt="GitHub"></a>
   <img src="https://img.shields.io/badge/Status-Building_things-success?style=flat-square" alt="Status">
 </p>
@@ -19,7 +22,7 @@
 
 ---
 
-### 🚀 Featured Projects
+###  Featured Projects
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
@@ -29,7 +32,7 @@
 
 ---
 
-### 🛠️ Tech Stack & Tools
+###  Tech Stack & Tools
 
 <p>
   <img src="https://img.shields.io/badge/C-%2300599C?style=flat-square&logo=c&logoColor=white" alt="C">
@@ -37,13 +40,19 @@
   <img src="https://img.shields.io/badge/PHP-%23777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP">
   <img src="https://img.shields.io/badge/HTML5-%23E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5">
 </p>
+### 3d Modeling
+<p>
+  <img src="https://img.shields.io/badge/Blender-%23F5792A?style=flat-square&logo=blender&logoColor=white" alt="Blender">
+  <img src="https://img.shields.io/badge/AutoCAD-%230696D7?style=flat-square&logo=autodesk&logoColor=white" alt="AutoCAD">
+  <img src="https://img.shields.io/badge/Fusion_360-orange?style=flat-square" alt="Fusion 360">
+</p>
 
 ---
 
 <details>
-<summary align="center"><b>💡 Click for absolute truths (Fun Facts)</b></summary>
+<summary align="center"><b> Click for absolute truths (Fun Facts)</b></summary>
 <p align="center">
-  🌸 Yuri manga is the BEST manga &lt;3<br>
-  🐧 Why do Linux users always love anime???
+  Yuri manga is the BEST manga &lt;3<br>
+  Why do Linux users always love anime???
 </p>
 </details>
