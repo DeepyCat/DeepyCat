@@ -40,7 +40,9 @@
   <img src="https://img.shields.io/badge/PHP-%23777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP">
   <img src="https://img.shields.io/badge/HTML5-%23E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5">
 </p>
+
 ###  3D Modelling
+
 <p>
   <img src="https://img.shields.io/badge/Blender-%23F5792A?style=flat-square&logo=blender&logoColor=white" alt="Blender">
   <img src="https://img.shields.io/badge/AutoCAD-%230696D7?style=flat-square&logo=autodesk&logoColor=white" alt="AutoCAD">
